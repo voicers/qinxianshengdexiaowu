@@ -1,5 +1,5 @@
 # qinxianshengdexiaowu
-此页面是iosApp“AR口袋象棋”的官方页面
+此页面是iosApp“AR口袋象棋”的官方页面\n
 任何的疑问、评论、意见都可以放在这里哦^-^
 
 All Right Reserved 2019 EvanStudio
