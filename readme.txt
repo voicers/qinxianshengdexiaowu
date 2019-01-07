@@ -10,7 +10,7 @@ For More Information Contact 3184776569@qq.com
 ======0.5 BETA=======
 
 0.5.1   1/7/2019
-增加了贴图辅助模式：解决了传统“扫点”模式的诸多不便，只需要将打印好的“贴图”（小图片）放到指定位置，系统便会自动准确识别位置，把（AR）棋盘“钉”上去。所需图片可以在这里找到：https://github.com/voicers/qinxianshengdexiaowu/tree/master/imageAssist
+新增了贴图辅助模式：解决了传统“扫点”模式的诸多不便，只需要将打印好的“贴图”（小图片）放到指定位置，系统便会自动准确识别位置，把（AR）棋盘“钉”上去。所需图片可以在这里找到：https://github.com/voicers/qinxianshengdexiaowu/tree/master/imageAssist
 
 0.5.0(未发布) 1/5/2019
 
