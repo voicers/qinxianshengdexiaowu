@@ -2,6 +2,9 @@
 此页面是iosApp“AR口袋象棋”的官方页面
 任何的疑问、评论、意见都可以放在这里哦^-^
 
+注：“AR口袋象棋”可能会使用您的后者摄像头及网络权限
+但不会保留存储任何数据
+
 All Right Reserved 2019 EvanStudio
 For More Information Contact 3184776569@qq.com
 
